@@ -37,6 +37,7 @@ end
 
 # Use unicorn as the app server
 gem 'unicorn'
+gem 'mysql2'
 
 # Use Capistrano for deployment
 # gem 'capistrano', group: :development
